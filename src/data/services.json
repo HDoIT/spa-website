@@ -1,0 +1,77 @@
+[
+    {
+        "id": "massage-thai",
+        "title": "MASSAGE THÁI",
+        "titleEn": "THAI MASSAGE",
+        "bannerImage": "/assets/images/home-projects/receptionist.jpg",
+        "description": "Massage Thái truyền thống kết hợp các động tác kéo giãn và bấm huyệt giúp thư giãn sâu.",
+        "descriptionEn": "Traditional Thai massage combining stretching and acupressure for deep relaxation.",
+        "details": [
+            "Kỹ thuật kéo giãn cơ chuyên sâu",
+            "Giảm đau nhức cơ bắp",
+            "Tăng cường tuần hoàn máu",
+            "Thời gian: 60-90 phút"
+        ],
+        "detailsEn": [
+            "Professional muscle stretching techniques",
+            "Relieves muscle pain",
+            "Improves blood circulation",
+            "Duration: 60-90 minutes"
+        ],
+        "price": "850,000 VND",
+        "images": [
+            "/assets/images/home-projects/receptionist.jpg",
+            "/assets/images/home-projects/receptionist.jpg"
+        ]
+    },
+    {
+        "id": "massage-nen",
+        "title": "MASSAGE NẾN",
+        "titleEn": "CANDLE MASSAGE",
+        "bannerImage": "/assets/images/home-projects/receptionist.jpg",
+        "description": "Trải nghiệm thư giãn với sáp nến ấm áp kết hợp tinh dầu thiên nhiên cao cấp.",
+        "descriptionEn": "Relaxing experience with warm candle wax and premium essential oils.",
+        "details": [
+            "Sáp nến chiết xuất từ thiên nhiên",
+            "Dưỡng ẩm sâu cho da",
+            "Giảm căng thẳng thần kinh",
+            "Thời gian: 75 phút"
+        ],
+        "detailsEn": [
+            "Natural candle wax extract",
+            "Deep skin moisturizing",
+            "Reduces nervous tension",
+            "Duration: 75 minutes"
+        ],
+        "price": "1,200,000 VND",
+        "images": [
+            "/assets/images/home-projects/receptionist.jpg",
+            "/assets/images/home-projects/receptionist.jpg"
+        ]
+    },
+    {
+        "id": "drink-massage",
+        "title": "DRINK & MASSAGE",
+        "titleEn": "DRINK & MASSAGE",
+        "bannerImage": "/assets/images/home-projects/receptionist.jpg",
+        "description": "Thưởng thức đồ uống cao cấp kết hợp với liệu pháp massage đặc biệt.",
+        "descriptionEn": "Enjoy premium drinks combined with special massage therapy.",
+        "details": [
+            "Lựa chọn rượu vang hoặc cocktail",
+            "Massage theo yêu cầu",
+            "Không gian riêng tư",
+            "Thời gian: 90 phút"
+        ],
+        "detailsEn": [
+            "Choice of wine or cocktail",
+            "Customized massage",
+            "Private space",
+            "Duration: 90 minutes"
+        ],
+        "price": "1,500,000 VND",
+        "images": [
+            "/assets/images/home-projects/receptionist.jpg",
+            "/assets/images/home-projects/receptionist.jpg"
+        ]
+    }
+]
